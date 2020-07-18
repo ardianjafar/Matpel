@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "24112418938",
+    "firebase_url": "https://matpel-sekolah.firebaseio.com",
+    "project_id": "matpel-sekolah",
+    "storage_bucket": "matpel-sekolah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24112418938:android:558660ef6c83b271b56bc3",
+        "android_client_info": {
+          "package_name": "id.matpelsekolah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24112418938-9ntieokl76qfvlmuojv6pan8blqhj5br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNVArSW-ofaoqBbOizcMbb_ZBynfMM6z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24112418938-9ntieokl76qfvlmuojv6pan8blqhj5br.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
